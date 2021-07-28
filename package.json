@@ -1,0 +1,14 @@
+{
+  "name": "uptime-monitoring-api",
+  "version": "1.0.0",
+  "description": "A project with raw node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "production": "NODE_ENV=production nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
